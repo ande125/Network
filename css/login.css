@@ -1,0 +1,28 @@
+body{
+	background:-webkit-linear-gradient(bottom, rgba(176,224,230,0.5), rgba(0,104,139,0.5) ); /* Safari, Chrome */
+	margin: 0 auto;
+	padding: 0 auto;
+	font-family: Lucida Sans;
+}
+
+#gesammt {
+	width: 600px;
+	height: 400px;
+	margin: 150px auto 0 auto;
+	background-color: rgba(47,79,79,0.5);
+	border-radius: 10px;
+}
+#tabelle {
+	margin: 30px auto 0 auto;
+}
+
+	
+
+
+h1 {
+	text-align: center;
+	margin: 0;
+	padding: 40;
+	font-size: 40pt;
+
+}
